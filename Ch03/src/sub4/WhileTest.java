@@ -54,12 +54,12 @@ public class WhileTest {
 		int num = 1;
 		while(true) {
 			
-			if(num % 5== 0 && num == 7) {
+			if(num % 5==0 && num==7) {
 				
 				break;
 			}
 			num++;
-		}
+		} 
 		System.out.println("5와 7의 최소 공배수 : " + num);
 		
 		
@@ -78,5 +78,9 @@ public class WhileTest {
 			total+=n;
 	}
 		System.out.println("1부터 10까지의 짝수합 : " + total);
+		
 	}
-}
+	
+	
+	}
+
