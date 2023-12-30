@@ -3,7 +3,7 @@ package test2;
  * 
  * 날짜 : 23/12/29
  * 이름 : 방정환
- * 내용 : 자바 배열 역수으로 정열 연습문제
+ * 내용 : 자바 배열 역순으로 정열 연습문제
  * 
  */
 public class Test03 {
@@ -29,12 +29,7 @@ public class Test03 {
 			System.out.print(n+ ",");
 			
 		}
-	
 	}
-	
-	
-	
-	
 	
 	}
 	

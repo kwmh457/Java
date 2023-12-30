@@ -19,10 +19,10 @@ public static void main(String[] args) {
 		if(maxNum < arr[i]) {
 			
 			maxNum = arr[i];
-			
-			
+				
 		}
-	}System.out.println("배열 arr 에서 가장 큰 수 : " +maxNum);
+	}
+	System.out.println("배열 arr 에서 가장 큰 수 : " +maxNum);
 }
 }
 

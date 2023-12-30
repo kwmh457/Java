@@ -19,11 +19,8 @@ public class Test01 {
 				System.out.print(str[co1]);
 				
 			}System.out.print("\n");
-		}
-		
-		
+		}	
 		
 	}
 
 }
-//  1 3 4 5 6 
